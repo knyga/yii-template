@@ -1,11 +1,11 @@
 {
 	"require": {
 		"php": ">=5.4",
-        	"ext-curl": "*",
-        	"ext-json": "*",
+        "ext-curl": "*",
+        "ext-json": "*",
 		"yiisoft/yii": "1.1.14",
-        	"swiftmailer/swiftmailer": "5.1.*",
-        	"sobit/swiftmailer-component": "dev-master"
+        "swiftmailer/swiftmailer": "5.1.*",
+        "sobit/swiftmailer-component": "dev-master"
 	} ,
 	"config":{
 		"vendor-dir": "vendor"

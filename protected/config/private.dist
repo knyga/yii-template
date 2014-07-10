@@ -1,0 +1,16 @@
+<?php
+
+return array(
+	'components' => array(
+		'db' => array(
+			'class'  => 'CDbConnection',
+			'connectionString' => 'mysql:host=localhost;dbname=db',
+			'emulatePrepare' => true,
+			'username' => 'root',
+			'password' => '',
+			'charset' => 'utf8',
+			'tablePrefix' => '',
+			'enableParamLogging' => true,
+		),
+	),
+);

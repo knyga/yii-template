@@ -1,0 +1,19 @@
+# IDE
+.idea/*
+
+# Project
+public/assets/*
+public/uploads/*
+protected/runtime/*
+protected/config/private.php
+
+# Composer
+vendor/*
+composer.phar
+
+# Archives in root
+*.rar
+*.zip
+
+# Autodeploy
+deploy.sh
